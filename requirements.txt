@@ -1,0 +1,9 @@
+streamlit
+openai
+pdfplumber
+langchain
+chromadb
+groq
+python-dotenv
+pytest
+
